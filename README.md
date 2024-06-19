@@ -16,6 +16,7 @@ source venv/bin/activate
 
 ```sh
 pip install -r requirements.txt
+python -m ipykernel install --user --name venv
 ```
 
 ## Run notebook
