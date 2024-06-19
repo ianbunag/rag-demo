@@ -1,31 +1,33 @@
-# RAG
+# Retrieval Augmented Generation
 
-## Create virtual environment
+## Quick start
+
+### Create virtual environment
 
 ```sh
 python3 -m venv .venv
 ```
 
-## Activate virtual environment
+### Activate virtual environment
 
 ```sh
 source .venv/bin/activate
 ```
 
-## Install dependencies
+### Install dependencies
 
 ```sh
 pip install -r requirements.txt
-python -m ipykernel install --user --name venv
+python -m ipykernel install --user --name .venv
 ```
 
-## Run notebook
+### Run notebook
 
 ```sh
 jupyter notebook
 ```
 
-## Generate dependency lockfile
+## Generating dependency lockfile
 
 ```sh
 pip freeze > requirements.txt
