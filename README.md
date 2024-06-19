@@ -35,6 +35,5 @@ pip freeze > requirements.txt
 
 ## References
 
-- https://python.langchain.com/v0.2/docs/tutorials/rag/
-- https://jupyter.org/install#jupyter-notebook
-- https://stackoverflow.com/a/33468993
+- [Build a Retrieval Augmented Generation (RAG) App](https://python.langchain.com/v0.2/docs/tutorials/rag/)
+- [Learn RAG from Scratch](https://www.freecodecamp.org/news/mastering-rag-from-scratch/)
