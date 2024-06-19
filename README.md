@@ -3,13 +3,13 @@
 ## Create virtual environment
 
 ```sh
-python3 -m venv venv
+python3 -m venv .venv
 ```
 
 ## Activate virtual environment
 
 ```sh
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ## Install dependencies
